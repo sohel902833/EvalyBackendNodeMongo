@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="732bdef8-e598-4b99-941c-81160b035495" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSI8cdiNOO8VrvMLrXKXkxm3jC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732bdef8-e598-4b99-941c-81160b035495" name="Default Changelist" comment="" />
+      <created>1599997907464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599997907464</updated>
+      <workItem from="1599997908592" duration="659000" />
+      <workItem from="1600173569958" duration="90000" />
+      <workItem from="1600760076776" duration="4872000" />
+      <workItem from="1600773430432" duration="636000" />
+      <workItem from="1600782090926" duration="1203000" />
+      <workItem from="1600791561644" duration="27000" />
+      <workItem from="1600791599888" duration="5294000" />
+      <workItem from="1600837131430" duration="1492000" />
+      <workItem from="1600839060670" duration="940000" />
+      <workItem from="1600859448381" duration="585000" />
+      <workItem from="1600875368413" duration="1729000" />
+      <workItem from="1601128676170" duration="3405000" />
+      <workItem from="1601367253654" duration="2239000" />
+      <workItem from="1601381956063" duration="2449000" />
+      <workItem from="1601386805363" duration="5935000" />
+      <workItem from="1601437136120" duration="2147000" />
+      <workItem from="1601444050235" duration="381000" />
+      <workItem from="1601469040238" duration="2111000" />
+      <workItem from="1601480508419" duration="5253000" />
+      <workItem from="1601524778973" duration="793000" />
+      <workItem from="1601531112556" duration="1713000" />
+      <workItem from="1601561418164" duration="2216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600837208829">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="75" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1600837208829" />
+  </component>
+</project>
